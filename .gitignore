@@ -1,0 +1,15 @@
+# Common files
+
+.DS_Store
+/**/.DS_Store
+/node_modules
+/**/node_modules
+**/**/node_modules
+
+# /Clase 09/Profe/Desafío
+# /Clase 09/Profe/Ejercicio
+
+/Clase 10 - 11/Profe
+/Clase 17 - 18/Profe
+
+/Teoria plataforma

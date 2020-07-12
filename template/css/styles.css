@@ -1,0 +1,38 @@
+@font-face {
+  font-family: Starwars;
+  src: local("Starwars"), url(../fonts/Starjedi.ttf);
+  font-weight: bold;
+}
+
+#root {
+  margin-top: 50px;
+  font-family: 'Starwars';
+  color: grey;
+  letter-spacing: 2px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../img/stormtrooper-1343772_1920.jpg);
+  background-position: 50% 25%;
+  background-size: cover;
+}
+
+.navbar {
+  font-family: Starwars;
+  font-size: 35px;
+}
+
+.navbar-nav {
+  display: flex;
+  text-align: right !important;
+}
+
+.navbar-brand {
+  font-size: 35px !important;
+}
+
+.btn {
+  opacity: 0.8;
+}
